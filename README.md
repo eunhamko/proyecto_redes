@@ -63,7 +63,7 @@ python sender.py
 ## ⚙️ Instalación
 
 Clona el repositorio:
-git clone https://github.com/TU_USUARIO/proyecto_redes.git
+git clone https://github.com/eunhamko/proyecto_redes.git
 cd proyecto_redes
 
 Crea entorno virtual:
